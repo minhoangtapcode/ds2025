@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Lý Nhật Huy
-* Student ID: 22BI13191
+* Student Name: Nguyen Minh Hoang
+* Student ID: 22BI13172
 * Student Group ID: Not-for-now
